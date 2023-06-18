@@ -1,0 +1,15 @@
+
+body{
+
+    background-color: rgb(140, 190, 190);
+}
+
+.main{
+    padding-top: 10%;
+    text-align: center;
+}
+
+.main span{
+
+    font-size: 50px;
+}
